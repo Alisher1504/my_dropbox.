@@ -130,8 +130,8 @@ const UpdateProfile = () => {
                             Update Profile
                         </button>
                     </div>
-                    <div className="!mt-4">
-                        <Link className="font-medium text-center text-black hover:text-amber-600" to={"/"}>Cancel</Link>
+                    <div className="!mt-4  text-center">
+                        <Link className="font-medium text-black hover:text-amber-600" to={"/"}>Cancel</Link>
                     </div>
                 </form>
             </div>
