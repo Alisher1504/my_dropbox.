@@ -131,7 +131,7 @@ const UpdateProfile = () => {
                         </button>
                     </div>
                     <div className="!mt-4">
-                        <Link className="font-medium text-black hover:text-amber-600" to={"/"}>Cancel</Link>
+                        <Link className="font-medium text-center text-black hover:text-amber-600" to={"/"}>Cancel</Link>
                     </div>
                 </form>
             </div>
